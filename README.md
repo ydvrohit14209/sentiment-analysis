@@ -5,9 +5,7 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
   ![Status](https://img.shields.io/badge/Status-Completed-success)
-  [![Technology](https://img.shields.io/badge/Technology-Python%20%7C%20NLP-blueviolet)](https://github.com/Amey-Thakur/SENTIMENT-ANALYZER)
-  [![Developed by Amey Thakur and Mega Satish](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Mega%20Satish-blue.svg)](https://github.com/Amey-Thakur/SENTIMENT-ANALYZER)
-
+  [![Technology](https://img.shields.io/badge/Technology-Python%20%7C%20NLP-blueviolet)]
   A hybrid Natural Language Processing engine utilizing rule-based linguistic patterns and neural network classification to accurately identify and quantify sentiment in textual data.
 
   **[Source Code](Source%20Code/)** &nbsp;·&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[Live Demo](https://amey-thakur.github.io/SENTIMENT-ANALYZER/)**
